@@ -55,7 +55,7 @@ permitindo que os contatos permaneçam salvos entre sessões.
 Clone o repositório:
 
 ```bash
-git clone <LINK_DO_REPOSITORIO>
+git clone https://github.com/zcypis/CM-CLI
 ```
 
 Entre na pasta do projeto:
